@@ -438,7 +438,7 @@ function App() {
                     {item.title
                       ?.toString()
                       .split("")
-                      .map((char, index) => (
+                      .map((index) => (
                         <span key={index} className="title-symbol">
                           {symbols[Math.floor(Math.random() * symbols.length)]}
                         </span>
@@ -475,7 +475,7 @@ function App() {
                   {comment.content
                     .toString()
                     .split("")
-                    .map((char, index) => (
+                    .map((index) => (
                       <span key={index} className="title-symbol">
                         {symbols[Math.floor(Math.random() * symbols.length)]}
                       </span>
