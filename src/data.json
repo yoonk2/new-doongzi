@@ -1,0 +1,314 @@
+﻿[
+  {
+    "id": 1,
+    "title": "Knock Knock: How to Doongzi",
+    "tags": "전시",
+    "description": "둥지의 처음(이자 마지막)으로 개최한 단독 전시. 2022년 9월 「월간디자인」 531호에 약 80*100mm의 분량으로 소개되었다.",
+    "Related 가지들": 2,
+    "imgType": ""
+  },
+  {
+    "id": 2,
+    "title": "둥키백과",
+    "tags": "웹",
+    "description": "",
+    "Related 가지들": 1,
+    "imgType": "gif"
+  },
+  {
+    "id": 3,
+    "title": "둥지",
+    "tags": "",
+    "description": "둥지",
+    "Related 가지들": "",
+    "imgType": ""
+  },
+  {
+    "id": 3,
+    "title": "둥사이트 시즌 1",
+    "tags": "웹",
+    "description": "",
+    "Related 가지들": 4,
+    "imgType": ""
+  },
+  {
+    "id": 4,
+    "title": "이화여대 소모임 연합전시",
+    "tags": "전시",
+    "description": "둥지가 결성 후 처음으로 참여한 전시. 둥지의 이율리가 전시 아이덴티티를, 권윤이 리플렛을 디자인했다.",
+    "Related 가지들": 3,
+    "imgType": ""
+  },
+  {
+    "id": 5,
+    "title": "둥지 X 글피 전시",
+    "tags": "전시",
+    "description": "",
+    "Related 가지들": "",
+    "imgType": ""
+  },
+  {
+    "id": 6,
+    "title": "둥지 멤버수는? 티셔츠",
+    "tags": "작업",
+    "description": "",
+    "Related 가지들": 39,
+    "imgType": ""
+  },
+  {
+    "id": 7,
+    "title": "쪽글 프로젝트",
+    "tags": "작업",
+    "description": "",
+    "Related 가지들": "",
+    "imgType": ""
+  },
+  {
+    "id": 8,
+    "title": "벽돌공",
+    "tags": "작업",
+    "description": "",
+    "Related 가지들": "",
+    "imgType": ""
+  },
+  {
+    "id": 9,
+    "title": "열받는 매뉴얼",
+    "tags": "작업",
+    "description": "",
+    "Related 가지들": "",
+    "imgType": ""
+  },
+  {
+    "id": 10,
+    "title": "번아웃^2",
+    "tags": "작업",
+    "description": "",
+    "Related 가지들": "",
+    "imgType": ""
+  },
+  {
+    "id": 11,
+    "title": "파브르 프로젝트",
+    "tags": "작업",
+    "description": "",
+    "Related 가지들": "",
+    "imgType": ""
+  },
+  {
+    "id": 12,
+    "title": "둥브제",
+    "tags": "작업",
+    "description": "",
+    "Related 가지들": "",
+    "imgType": ""
+  },
+  {
+    "id": 13,
+    "title": "서대문구 연희로 32, 203호",
+    "tags": "작업실",
+    "description": "2022년 9월부터 2024년 8월까지 사용한 세 번째 작업실. 유명 빵집 ‘만동제과’와 이웃이었다.",
+    "Related 가지들": "",
+    "imgType": ""
+  },
+  {
+    "id": 14,
+    "title": "서대문구 연희로 2안길 12, B103호",
+    "tags": "작업실",
+    "description": "2021년 9월부터 2022년 9월까지 사용한 두 번째 작업실.",
+    "Related 가지들": "",
+    "imgType": ""
+  },
+  {
+    "id": 15,
+    "title": "강남구 도곡로 37길 50",
+    "tags": "작업실",
+    "description": "2021년 7월부터 2021년 9월까지 사용한 첫 작업실.",
+    "Related 가지들": "",
+    "imgType": ""
+  },
+  {
+    "id": 16,
+    "title": "중구 창경궁로 7, 402호",
+    "tags": "작업실",
+    "description": "2024년 9월부터 현재까지 사용중인 네 번째 작업실. 디자이너 그룹 ‘콜리’, 디자이너 ‘유지율’과 함께 사용한다.",
+    "Related 가지들": 28,
+    "imgType": ""
+  },
+  {
+    "id": 17,
+    "title": "권윤",
+    "tags": "둥지 멤버",
+    "description": "",
+    "Related 가지들": 38,
+    "imgType": ""
+  },
+  {
+    "id": 18,
+    "title": "이채영",
+    "tags": "둥지 멤버",
+    "description": "",
+    "Related 가지들": 38,
+    "imgType": ""
+  },
+  {
+    "id": 19,
+    "title": "김나연",
+    "tags": "둥지 멤버",
+    "description": "",
+    "Related 가지들": 38,
+    "imgType": ""
+  },
+  {
+    "id": 20,
+    "title": "이율리",
+    "tags": "둥지 멤버",
+    "description": "둥지의 창시자",
+    "Related 가지들": 38,
+    "imgType": ""
+  },
+  {
+    "id": 21,
+    "title": "유지율",
+    "tags": "둥지의 동료",
+    "description": "2022년부터 현재까지 둥지와 작업실을 공유하고 있는 디자이너. 둥지의 멤버 ‘김나연’보다 작업실을 사용한 기간이 길다.",
+    "Related 가지들": 16,
+    "imgType": ""
+  },
+  {
+    "id": 22,
+    "title": "심지영",
+    "tags": "둥지의 동료",
+    "description": "2023년 4월 4일부터 2024년 3월까지 둥지와 작업실을 공유한 디자이너",
+    "Related 가지들": "",
+    "imgType": ""
+  },
+  {
+    "id": 23,
+    "title": "지예안",
+    "tags": "둥지의 동료",
+    "description": "2023년 10월부터 2024년 5월까지 둥지와 작업실을 공유한 디자이너",
+    "Related 가지들": "",
+    "imgType": ""
+  },
+  {
+    "id": 24,
+    "title": "김채영",
+    "tags": "둥지의 동료",
+    "description": "2024년 9월부터 현재까지 둥지와 작업실을 공유하고 있는 디자이너이자 둥지와 친밀한 디자이너 그룹 ‘콜리’의 멤버.",
+    "Related 가지들": 28,
+    "imgType": ""
+  },
+  {
+    "id": 25,
+    "title": "윤주향",
+    "tags": "둥지의 동료",
+    "description": "2024년 9월부터 현재까지 둥지와 작업실을 공유하고 있는 디자이너이자 둥지와 친밀한 디자이너 그룹 ‘콜리’의 멤버.",
+    "Related 가지들": 28,
+    "imgType": ""
+  },
+  {
+    "id": 26,
+    "title": "남유현",
+    "tags": "둥지의 동료",
+    "description": "2024년 9월부터 현재까지 둥지와 작업실을 공유하고 있는 디자이너이자 둥지와 친밀한 디자이너 그룹 ‘콜리’의 멤버.",
+    "Related 가지들": 28,
+    "imgType": ""
+  },
+  {
+    "id": 27,
+    "title": "이가경",
+    "tags": "둥지의 동료",
+    "description": "2024년 9월부터 현재까지 둥지와 작업실을 공유하고 있는 디자이너이자 둥지와 친밀한 디자이너 그룹 ‘콜리’의 멤버.",
+    "Related 가지들": 28,
+    "imgType": ""
+  },
+  {
+    "id": 28,
+    "title": "콜리",
+    "tags": "둥지의 동료",
+    "description": "둥지와 친밀한 디자이너 그룹",
+    "Related 가지들": [24, 25, 26, 27, 16],
+    "imgType": ""
+  },
+  {
+    "id": 32,
+    "title": "김형진",
+    "tags": "둥지의 인스타그램을 팔로우한 유명인",
+    "description": "",
+    "Related 가지들": "",
+    "imgType": ""
+  },
+  {
+    "id": 35,
+    "title": "whatreallymatters",
+    "tags": "둥지의 전시가 열린 공간",
+    "description": "",
+    "Related 가지들": 1,
+    "imgType": ""
+  },
+  {
+    "id": 36,
+    "title": "월간 디자인",
+    "tags": "둥지를 주목한 잡지사",
+    "description": "",
+    "Related 가지들": 1,
+    "imgType": ""
+  },
+  {
+    "id": 37,
+    "title": 673,
+    "tags": "둥지와 관련된 숫자",
+    "description": "둥지의 인스타그램 팔로워수",
+    "Related 가지들": "",
+    "imgType": ""
+  },
+  {
+    "id": 38,
+    "title": 4,
+    "tags": "둥지와 관련된 숫자",
+    "description": "둥지의 멤버수",
+    "Related 가지들": [17, 18, 19, 20],
+    "imgType": ""
+  },
+  {
+    "id": 39,
+    "title": 66000,
+    "tags": "둥지와 관련된 숫자",
+    "description": "둥지가 참여한 첫 플리마켓에서 번 돈(단위: 원)",
+    "Related 가지들": 6,
+    "imgType": ""
+  },
+  {
+    "id": 41,
+    "title": "둥사이트 시즌 2",
+    "tags": "웹",
+    "description": "이 웹사이트.",
+    "Related 가지들": "",
+    "imgType": ""
+  },
+  {
+    "id": 43,
+    "title": "https://www.youtube.com/watch?v=oiXTyqaOFnE",
+    "tags": "둥지가 2024년 11월에 추천한 유튜브 영상",
+    "description": "Leroy Anderson Ritvélin, The Typewriter",
+    "Related 가지들": "",
+    "imgType": "gif"
+  },
+  {
+    "id": 44,
+    "title": "쓰쓰쓰",
+    "tags": "둥지 멤버의 과반수 이상이 참여한 전시",
+    "description": "",
+    "Related 가지들": "",
+    "imgType": ""
+  },
+  {
+    "id": 45,
+    "title": "타닥타닥",
+    "tags": "둥지 멤버의 과반수 이상이 참여한 전시",
+    "description": "2024 이화여자대학교 디자인학부 졸업전시. 둥지의 이율리가 졸업전시 준비 위원회의 디자인 팀장을, 권윤이 웹사이트 디자인을 맡았다. \\n둥지의 이채영, 이율리, 권윤이 전시에 참여했다.",
+    "Related 가지들": "",
+    "imgType": ""
+  }
+]
