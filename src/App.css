@@ -277,6 +277,8 @@ li.row {
       backface-visibility: hidden;
       overflow: hidden;
       text-overflow: ellipsis;
+      -webkit-line-clamp: 5;
+      line-clamp: 5;
 
       left: 50%;
       transform: translateX(-50%) rotateY(180deg);
@@ -328,10 +330,22 @@ li.row {
     text-overflow: ellipsis;
     /* text-align: center; */
     line-height: 1.5;
+    -webkit-line-clamp: 5;
+    line-clamp: 5;
 
     & .title {
       font-size: 18px;
       line-height: 24px;
+    }
+
+    & .description {
+      display: -webkit-box; /* Flexbox 기반의 박스 레이아웃 */
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      line-height: 1.5;
+      -webkit-line-clamp: 5;
+      line-clamp: 5;
     }
 
     & .tags {
