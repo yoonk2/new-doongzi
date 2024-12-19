@@ -54,7 +54,7 @@ const dataCsv = `id,title,tags,description,Related 가지들,imgType
 43,https://www.youtube.com/watch?v=oiXTyqaOFnE,둥지가 2024년 11월에 추천한 유튜브 영상,"Leroy Anderson Ritvélin, The Typewriter",,gif
 44,쓰레기 중 가장 쓰레기 같은 쓰레기,둥지 멤버의 과반수 이상이 참여한 전시,비주얼 레포트 서울에서 주관하고 두성페이퍼갤러리에서 열린 전시. 둥지의 이율리와 이채영이 ‘슈퍼루키’로 참여했다.,,
 45,타닥타닥,둥지 멤버의 과반수 이상이 참여한 전시,"2024 이화여자대학교 디자인학부 졸업전시. 둥지의 이율리가 졸업전시 준비 위원회의 디자인 팀장을, 권윤이 웹사이트 디자인을 맡았다. \n둥지의 이채영, 이율리, 권윤이 전시에 참여했다.",,
-57,Ex Libris 꽃,둥지 멤버의 과반수 이상이 참여한 전시,"이화여자대학교 한글타이포그래피학회 꽃의 네 번째 정기 작품전. 2`;
+57,Ex Libris 꽃,둥지 멤버의 과반수 이상이 참여한 전시,"이화여자대학교 한글타이포그래피학회 꽃의 네 번째 정기 작품전.`;
 const data = csvToJson(dataCsv);
 const symbols = [
   "🫠",
@@ -130,6 +130,8 @@ function App() {
   }, []);
 
   const changeDesign = () => {
+    // reset scroll position
+    window.scrollTo(0, 0);
     const currentIndex = designs.indexOf(design);
     setDesign(designs[currentIndex + 1] || designs[0]);
   };
@@ -458,6 +460,36 @@ function App() {
                   </span>
                 </span>
               ))}
+            <span className="item">
+              <span className="every-char">
+                <span className="title-text title-text-space">둥</span>
+                <span className="title-symbol">🪺</span>
+              </span>
+              <span className="every-char">
+                <span className="title-text title-text-space">지</span>
+                <span className="title-symbol">🐣</span>
+              </span>
+              <span className="every-char">
+                <span className="title-text title-text-space">는</span>
+                <span className="title-symbol">🐦</span>
+              </span>
+              <span className="every-char">
+                <span className="title-text title-text-space">멋</span>
+                <span className="title-symbol">💌</span>
+              </span>
+              <span className="every-char">
+                <span className="title-text title-text-space">집</span>
+                <span className="title-symbol">🏂</span>
+              </span>
+              <span className="every-char">
+                <span className="title-text title-text-space">니</span>
+                <span className="title-symbol">🧑‍🌾</span>
+              </span>
+              <span className="every-char">
+                <span className="title-text title-text-space">다</span>
+                <span className="title-symbol">🪺</span>
+              </span>
+            </span>
           </p>
         ) : null}
         <button className="change-design-btn" onClick={changeDesign}>
